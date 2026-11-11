@@ -1,0 +1,20 @@
+ADMINISTRATIVE OPERATIONS DEMO – START HERE
+
+Files:
+1. Administrative_Operations_Control_Centre.xlsx
+   Excel dashboard, task tracker, document register, communication log and usage guide.
+   Upload to Google Drive and open with Google Sheets to demonstrate Google Workspace compatibility.
+   Check formulas and validation after conversion.
+
+2. Administrative_Operations_SOP_and_Drive_Guide.docx
+   Client-facing process guide, folder structure, naming convention, daily/weekly SOP and implementation checklist.
+
+3. create_admin_workspace_folders.gs
+   Starter Google Apps Script to create the proposed top-level folders.
+   Replace the placeholder parent folder ID and test in a new demo folder before any live use.
+
+IMPORTANT:
+- All names and records are fictional.
+- This is a demonstration, not a live client system.
+- Do not claim Google certifications unless you hold them.
+- Do not upload confidential employer/client records to a public portfolio.
